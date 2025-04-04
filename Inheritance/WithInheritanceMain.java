@@ -1,3 +1,5 @@
+
+//PARENT CLASS OR SUPER CLASS
 class School {
     private String name;
 
@@ -10,6 +12,7 @@ class School {
     }
 }
 
+//SUBCLASS OR CHILD CLASS
 class Student extends School {
     private String name;
 
